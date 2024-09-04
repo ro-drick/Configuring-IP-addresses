@@ -14,6 +14,8 @@ The objective of this exercise is to practice the following tasks:
 6. Configuring IP addresses on PCs.
 7. Testing network connectivity by pinging between PCs.
 
+<img src="https://github.com/ro-drick/Configuring-IP-addresses/blob/main/ip-address-configuration.PNG">
+
 ## Instructions
 
 ### 1. Configure R1's Hostname
