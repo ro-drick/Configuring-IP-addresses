@@ -74,7 +74,7 @@ The objective of this exercise is to practice the following tasks:
     ```bash
     ping 201.191.20.1
 ### Files Included
-- The Packet Tracer file for this exercise.
+- [The Packet Tracer file for this exercise](https://github.com/ro-drick/Configuring-IP-addresses/blob/main/ip-address-configuration.pkt).
 ## Acknowledgements
 
 
